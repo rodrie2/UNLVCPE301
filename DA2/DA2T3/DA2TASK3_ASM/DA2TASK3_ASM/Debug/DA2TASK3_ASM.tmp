@@ -1,0 +1,30 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Rodriguez\Documents\Atmel Studio\DA2\DA2T3\DA2TASK3_ASM\DA2TASK3_ASM\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Rodriguez\Documents\Atmel Studio\DA2\DA2T3\DA2TASK3_ASM\DA2TASK3_ASM\DA2TASK3_ASM.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Rodriguez\Documents\Atmel Studio\DA2\DA2T3\DA2TASK3_ASM\DA2TASK3_ASM\Debug/DA2TASK3_ASM.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA2TASK3_ASM.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA2TASK3_ASM.map</FILE>
+  <FILE>DA2TASK3_ASM.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <BEGIN><FILE>C:\Users\Rodriguez\Documents\Atmel Studio\DA2\DA2T3\DA2TASK3_ASM\DA2TASK3_ASM\DA2TASK3_ASM.asm</FILE><LINE>22</LINE></BEGIN>
+  <CHK10><FILE>C:\Users\Rodriguez\Documents\Atmel Studio\DA2\DA2T3\DA2TASK3_ASM\DA2TASK3_ASM\DA2TASK3_ASM.asm</FILE><LINE>40</LINE></CHK10>
+  <NORM><FILE>C:\Users\Rodriguez\Documents\Atmel Studio\DA2\DA2T3\DA2TASK3_ASM\DA2TASK3_ASM\DA2TASK3_ASM.asm</FILE><LINE>47</LINE></NORM>
+  <L1><FILE>C:\Users\Rodriguez\Documents\Atmel Studio\DA2\DA2T3\DA2TASK3_ASM\DA2TASK3_ASM\DA2TASK3_ASM.asm</FILE><LINE>51</LINE></L1>
+  <L2><FILE>C:\Users\Rodriguez\Documents\Atmel Studio\DA2\DA2T3\DA2TASK3_ASM\DA2TASK3_ASM\DA2TASK3_ASM.asm</FILE><LINE>67</LINE></L2>
+ </LABELS>
+</ASSEMBLER_INFO>
