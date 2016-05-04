@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "DA5_TASK2_STEPPER", "DA5_TASK2_STEPPER\DA5_TASK2_STEPPER_6_2.cproj", "{8629BE04-16E6-4150-8CDA-EE4F921E2429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8629BE04-16E6-4150-8CDA-EE4F921E2429}.Debug|AVR.ActiveCfg = Debug|AVR
+		{8629BE04-16E6-4150-8CDA-EE4F921E2429}.Debug|AVR.Build.0 = Debug|AVR
+		{8629BE04-16E6-4150-8CDA-EE4F921E2429}.Release|AVR.ActiveCfg = Release|AVR
+		{8629BE04-16E6-4150-8CDA-EE4F921E2429}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
